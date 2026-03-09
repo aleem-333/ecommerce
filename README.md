@@ -7,6 +7,12 @@ A modern, production-ready eCommerce platform built with the TALL stack (Tailwin
 ![Livewire](https://img.shields.io/badge/Livewire-2.x-pink)
 ![Tests](https://img.shields.io/badge/Tests-26%2B-green)
 
+## 🔗 Clone Repository
+
+```bash
+git clone git@github.com:aleem-333/ecommerce.git
+```
+
 ## 📋 Table of Contents
 
 - [Features](#features)
@@ -74,7 +80,7 @@ A modern, production-ready eCommerce platform built with the TALL stack (Tailwin
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:aleem-333/ecommerce.git
 cd Ecommerce
 ```
 
